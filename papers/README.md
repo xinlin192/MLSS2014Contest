@@ -31,7 +31,7 @@ Literatures for multi-label text classification
 	 
 Introductory Tutorials
 --------------------------
-1. ######On-line Hierarchical Multi-label Text Classiﬁcation
+- ######On-line Hierarchical Multi-label Text Classiﬁcation
 
 	`A good summary and comparison of different naive methods (better as introductory material).`
 
@@ -50,9 +50,9 @@ Introductory Tutorials
 Reviews of all papers
 --------------------------
 
-All found research papers are listed in the time of 
+All found research papers are listed by the **Year of Publication**.
 
-1. ######Large-scale Multi-label Text Classification - Revisiting Neural Networks
+- ######Large-scale Multi-label Text Classification - Revisiting Neural Networks
 
 	A.K.A: `Revisiting Neural Networks`
 	
