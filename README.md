@@ -1,2 +1,2 @@
-MLSS2014
+MLSS2014 Contest
 ========
